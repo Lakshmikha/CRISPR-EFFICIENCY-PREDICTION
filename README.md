@@ -35,7 +35,7 @@ CSS
 JavaScript  
 
 ## TEAM MEMBERS
-[Aishwarya J S]  
+[Aishwarya J S](https://github.com/Aish-h)  
 [Bineeta Benny](https://github.com/bin1696)  
-[Gopika K K]  
+[Gopika K K](https://github.com/GopikaArunK)  
 [Lakshmikha Rejith](https://github.com/Lakshmikha)
